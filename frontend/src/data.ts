@@ -31,7 +31,7 @@ export const sampleProducts: Product[] = [
     name: 'Smock',
     slug: 'smock',
     category: 'Northen Wear',
-    image: '../images/p3.jpg',
+    image: '../images/pic3.jpg',
     price: 330,
     countInStock: 30,
     brand: 'African Print',
